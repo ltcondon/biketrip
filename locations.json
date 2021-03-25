@@ -1,0 +1,410 @@
+[
+  {
+      "mileNo": 0,
+      "latitude": 40.730610,
+      "longitude": -73.935242,
+      "city": "Brooklyn",
+      "state": "NY",
+      "date": "05/29/2019"
+  },
+  {
+      "mileNo": 68,
+      "latitude": 38.7526,
+      "longitude": -77.9639,
+      "city": "Orlean",
+      "state": "VA",
+      "date": "05/30/2019"
+  },
+  {
+      "mileNo": 126,
+      "latitude": 38.2974,
+      "longitude": -78.4400,
+      "city": "Stanardsville",
+      "state": "VA",
+      "date": "05/31/2019"
+  },
+  {
+      "mileNo": 176,
+      "latitude": 37.7840,
+      "longitude": -79.4428,
+      "city": "Lexington",
+      "state": "VA",
+      "date": "06/01/2019"
+  },
+  {
+      "mileNo": 262,
+      "latitude": 37.2296,
+      "longitude": -80.4139,
+      "city": "Blacksburg",
+      "state": "VA",
+      "date": "06/02/2019"
+  },
+  {
+      "mileNo": 332,
+      "latitude": 36.8937,
+      "longitude": -81.2759,
+      "city": "Rural Retreat",
+      "state": "VA",
+      "date": "06/03/2019"
+  },
+  {
+      "mileNo": 387,
+      "latitude": 36.9090,
+      "longitude": -81.9801,
+      "city": "Elk Garden",
+      "state": "VA",
+      "date": "06/04/2019"
+  },
+  {
+      "mileNo": 449,
+      "latitude": 37.3147,
+      "longitude": -82.4672,
+      "city": "Lookout",
+      "state": "KY",
+      "date": "06/05/2019"
+  },
+  {
+      "mileNo": 521,
+      "latitude": 37.2495,
+      "longitude": -83.1932,
+      "city": "Hazard",
+      "state": "KY",
+      "date": "06/06/2019"
+  },
+  {
+      "mileNo": 616,
+      "latitude": 37.5687,
+      "longitude": -84.2963,
+      "city": "Berea",
+      "state": "KY",
+      "date": "06/07/2019"
+  },
+  {
+      "mileNo": 683,
+      "latitude": 38.2009,
+      "longitude": -84.8733,
+      "city": "Frankfort",
+      "state": "KY",
+      "date": "06/08/2019"
+  },
+  {
+      "mileNo": 738,
+      "latitude": 38.2527,
+      "longitude": -85.7585,
+      "city": "Louisville",
+      "state": "KY",
+      "date": "06/09/2019"
+  },
+  {
+      "mileNo": 800,
+      "latitude": 38.5653,
+      "longitude": -86.6111,
+      "city": "West Baden Springs",
+      "state": "IN",
+      "date": "06/12/2019"
+  },
+  {
+      "mileNo": 891,
+      "latitude": 38.7309,
+      "longitude": -88.0853,
+      "city": "Olney",
+      "state": "IL",
+      "date": "06/13/2019"
+  },
+  {
+      "mileNo": 968,
+      "latitude": 38.6103,
+      "longitude": -89.3726,
+      "city": "Carlyle",
+      "state": "IL",
+      "date": "06/14/2019"
+  },
+  {
+      "mileNo": 1028,
+      "latitude": 38.6270,
+      "longitude": -90.1994,
+      "city": "St. Louis",
+      "state": "MO",
+      "date": "06/15/2019"
+  },
+  {
+      "mileNo": 1045,
+      "latitude": 38.7134,
+      "longitude": -90.6893,
+      "city": "Weldon Springs",
+      "state": "MO",
+      "date": "06/19/2019"
+  },
+  {
+      "mileNo": 1135,
+      "latitude": 38.6205,
+      "longitude": -91.9609,
+      "city": "Tebbetts",
+      "state": "MO",
+      "date": "06/20/2019"
+  },
+  {
+      "mileNo": 1195,
+      "latitude": 38.9736,
+      "longitude": -92.7432,
+      "city": "Boonville",
+      "state": "MO",
+      "date": "06/21/2019"
+  },
+  {
+      "mileNo": 1262,
+      "latitude": 39.0725,
+      "longitude": -93.7172,
+      "city": "Higginsville",
+      "state": "MO",
+      "date": "06/22/2019"
+  },
+  {
+      "mileNo": 1320,
+      "latitude": 39.0997,
+      "longitude": -94.5786,
+      "city": "Kansas City",
+      "state": "KS",
+      "date": "06/23/2019"
+  },
+  {
+      "mileNo": 1868,
+      "latitude": 37.9850,
+      "longitude": -103.5438,
+      "city": "La Junta",
+      "state": "CO",
+      "date": "06/25/2019"
+  },
+  {
+      "mileNo": 1898,
+      "latitude": 38.2544,
+      "longitude": -104.6091,
+      "city": "Pueblo",
+      "state": "CO",
+      "date": "06/26/2019"
+  },
+  {
+      "mileNo": 1953,
+      "latitude": 38.8339,
+      "longitude": -104.8214,
+      "city": "Colorado Springs",
+      "state": "CO",
+      "date": "06/27/2019"
+  },
+  {
+      "mileNo": 2043,
+      "latitude": 39.2247,
+      "longitude": -106.0020,
+      "city": "Fairplay",
+      "state": "CO",
+      "date": "06/28/2019"
+  },
+  {
+      "mileNo": 2087,
+      "latitude": 39.5792,
+      "longitude": -105.9347,
+      "city": "Keystone",
+      "state": "CO",
+      "date": "06/29/2019"
+  },
+  {
+      "mileNo": 2167,
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "city": "Denver",
+      "state": "CO",
+      "date": "06/30/2019"
+  },
+  {
+      "mileNo": 2202,
+      "latitude": 40.0150,
+      "longitude": -105.2705,
+      "city": "Boulder",
+      "state": "CO",
+      "date": "07/01/2019"
+  },
+  {
+      "mileNo": 2242,
+      "latitude": 40.1944,
+      "longitude": -105.5256,
+      "city": "Allenspark",
+      "state": "CO",
+      "date": "07/02/2019"
+  },
+  {
+      "mileNo": 2309,
+      "latitude": 40.2522,
+      "longitude": -105.8231,
+      "city": "Grand Lake",
+      "state": "CO",
+      "date": "07/03/2019"
+  },
+  {
+      "mileNo": 2450,
+      "latitude": 41.4550,
+      "longitude": -106.8064,
+      "city": "Saratoga",
+      "state": "WY",
+      "date": "07/04/2019"
+  },
+  {
+      "mileNo": 2560,
+      "latitude": 42.4947,
+      "longitude": -107.8273,
+      "city": "Jeffrey City",
+      "state": "WY",
+      "date": "07/05/2019"
+  },
+  {
+      "mileNo": 2618,
+      "latitude": 42.8330,
+      "longitude": -108.7307,
+      "city": "Lander",
+      "state": "WY",
+      "date": "07/06/2019"
+  },
+  {
+      "mileNo": 2695,
+      "latitude": 43.5336,
+      "longitude": -109.6304,
+      "city": "Dubois",
+      "state": "WY",
+      "date": "07/09/2019"
+  },
+  {
+      "mileNo": 2785,
+      "latitude": 43.4799,
+      "longitude": -110.7624,
+      "city": "Jackson",
+      "state": "WY",
+      "date": "07/11/2019"
+  },
+  {
+      "mileNo": 2845,
+      "latitude": 44.1063,
+      "longitude": -110.6676,
+      "city": "Flagg Ranch",
+      "state": "WY",
+      "date": "07/13/2019"
+  },
+  {
+      "mileNo": 2930,
+      "latitude": 44.6621,
+      "longitude": -111.1041,
+      "city": "West Yellowstone",
+      "state": "MT",
+      "date": "07/14/2019"
+  },
+  {
+      "mileNo": 3020,
+      "latitude": 45.6770,
+      "longitude": -111.0429,
+      "city": "Bozeman",
+      "state": "MT",
+      "date": "07/15/2019"
+  },
+  {
+      "mileNo": 3115,
+      "latitude": 45.5443,
+      "longitude": -112.3310,
+      "city": "Twin Bridges",
+      "state": "MT",
+      "date": "07/17/2019"
+  },
+  {
+      "mileNo": 3211,
+      "latitude": 46.0216,
+      "longitude": -114.1731,
+      "city": "Darby",
+      "state": "MT",
+      "date": "07/18/2019"
+  },
+  {
+      "mileNo": 3279,
+      "latitude": 46.8721,
+      "longitude": -113.9940,
+      "city": "Missoula",
+      "state": "MT",
+      "date": "07/19/2019"
+  },
+  {
+      "mileNo": 3341,
+      "latitude": 47.1794,
+      "longitude": -113.4845,
+      "city": "Seeley Lake",
+      "state": "MT",
+      "date": "07/21/2019"
+  },
+  {
+      "mileNo": 3451,
+      "latitude": 48.4456,
+      "longitude": -114.3771,
+      "city": "Whitefish",
+      "state": "MT",
+      "date": "07/22/2019"
+  },
+  {
+      "mileNo": 3506,
+      "latitude": 48.8800,
+      "longitude": -115.0535,
+      "city": "Eureka",
+      "state": "MT",
+      "date": "07/24/2019"
+  },
+  {
+      "mileNo": 3694,
+      "latitude": 48.4641,
+      "longitude": -115.8899,
+      "city": "Troy",
+      "state": "MT",
+      "date": "07/25/2019"
+  },
+  {
+      "mileNo": 3767,
+      "latitude": 48.2766,
+      "longitude": -116.5535,
+      "city": "Sandpoint",
+      "state": "ID",
+      "date": "07/26/2019"
+  },
+  {
+      "mileNo": 3879,
+      "latitude": 48.5450,
+      "longitude": -117.9010,
+      "city": "Colville",
+      "state": "WA",
+      "date": "07/28/2019"
+  },
+  {
+      "mileNo": 3979,
+      "latitude": 48.7052,
+      "longitude": -119.4395,
+      "city": "Tonasket",
+      "state": "WA",
+      "date": "07/29/2019"
+  },
+  {
+      "mileNo": 4057,
+      "latitude": 48.4779,
+      "longitude": -120.1862,
+      "city": "Winthrop",
+      "state": "WA",
+      "date": "07/30/2019"
+  },
+  {
+      "mileNo": 4155,
+      "latitude": 48.4857,
+      "longitude": -121.5976,
+      "city": "Rockport",
+      "state": "WA",
+      "date": "07/31/2019"
+  },
+  {
+      "mileNo": 4260,
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "city": "Seattle",
+      "state": "WA",
+      "date": "08/01/2019"
+  }
+]
